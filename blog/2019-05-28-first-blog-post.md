@@ -1,6 +1,6 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: Bicycle is Best  Blog Post
 authors:
   name: Gao Wei
   title: Docusaurus Core Team
